@@ -1,4 +1,4 @@
-//First hello word - without package
+//First hello word - without external package
 
 package main
 
